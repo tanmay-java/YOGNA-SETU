@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1775025190886",
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "$2a$10$sTcSJP1HQ5Y46vyAuQjrM.Zl/dhUgvjEbF03fbpo86CIxgaQGirfS",
+    "aadhaar": "",
+    "savedSchemes": [
+      1,
+      2
+    ],
+    "createdAt": "2026-04-01T06:33:10.886Z"
+  }
+]
